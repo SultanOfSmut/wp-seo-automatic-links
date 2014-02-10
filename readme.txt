@@ -3,7 +3,7 @@ Contributors: freediver
 Donate link: https://www.networkforgood.org/donation/MakeDonation.aspx?ORGID2=520781390
 Tags:  Post, posts, comments, links, seo, google, automatic, affiliate
 Requires at least: 2.3
-Tested up to: 3.5
+Tested up to: 3.8.2
 Stable tag: trunk
 
 SEO Smart Links provides automatic SEO benefits for your site in addition to custom keyword lists, nofollow and much more. 
@@ -26,6 +26,9 @@ Everything happens completely transparent, and you can edit the options from the
 Plugin by Vladimir Prelovac, a <a href="http://www.prelovac.com/vladimir/services">WordPress Consultant</a>.
 
 == Changelog == 
+
+= 2.7.8 =
+* WordPress 3.8 compatibility
 
 = 2.7.6 =
 * Fixed new line at the end of the file
