@@ -3,7 +3,7 @@ Contributors: freediver
 Donate link: https://www.networkforgood.org/donation/MakeDonation.aspx?ORGID2=520781390
 Tags:  Post, posts, comments, links, seo, google, automatic, affiliate
 Requires at least: 2.3
-Tested up to: 3.8.2
+Tested up to: 4.1
 Stable tag: trunk
 
 SEO Smart Links provides automatic SEO benefits for your site in addition to custom keyword lists, nofollow and much more. 
@@ -11,7 +11,6 @@ SEO Smart Links provides automatic SEO benefits for your site in addition to cus
 
 == Description == 
 
-<a href="http://www.prelovac.com/products/seo-smart-links">SEO Smart Links Premium</a> is now available with rewritten code, new features and performance improvements. <a href="http://www.prelovac.com/products/seo-smart-links/#new">What is new?</a> 
 
 SEO Smart Links provides automatic SEO benefits for your site in addition to custom keyword lists, nofollow and much more. 
 
@@ -23,9 +22,19 @@ It is a perfect solution to get your blog posts interlinked or add affiliate lin
 
 Everything happens completely transparent, and you can edit the options from the administration settings panel.
 
-Plugin by Vladimir Prelovac, a <a href="http://www.prelovac.com/vladimir/services">WordPress Consultant</a>.
+<a href="http://www.prelovac.com/products/seo-smart-links">SEO Smart Links Premium</a> is now available with premium support and new features. 
 
 == Changelog == 
+
+= 3.0.1 =
+* Fixed load on save post
+
+= 3.0 =
+* Major update of the code
+* Fixed all reported bugs
+* Performance improvements
+* Many new features
+* If oyu like this update please rate the plugin!
 
 = 2.7.8 =
 * WordPress 3.8 compatibility
@@ -131,7 +140,3 @@ Please be careful when editing this file and always make a backup!
 = Can I suggest an feature for the plugin? =
 
 Of course, visit <a href="http://www.prelovac.com/vladimir/wordpress-plugins/seo-smart-links#comments">SEO Smart Links Home Page</a>
-
-= I love your work, are you available for hire? =
-
-Yes I am, visit my <a href="http://www.prelovac.com/vladimir/services">WordPress Services</a> page to find out more.
